@@ -1,60 +1,166 @@
-<p align="center">
-  <a href="https://github.com/Akshitsoni-2007">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4f46e5&fontSize=54&height=90&width=442&text=Akshit%20Soni" alt="Akshit Soni" />
-  </a>
-</p>
+<!--
+  FONT SYSTEM
+  - Name + section headings: Montserrat
+  - Subheadings: Fira Code
+  - Tagline accent: Caveat
+  - Accent colors: #14B8A6 (teal), #06B6D4 (cyan), #FBBF24 (amber)
+-->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,100:06B6D4&height=140&section=header" alt="" width="100%" />
+
+<!-- Name -->
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=42&duration=1500&pause=1000&color=06B6D4&center=true&vCenter=true&repeat=false&width=560&height=65&lines=Akshit+Soni" alt="Akshit Soni" />
+
+<!-- Tagline -->
+<img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=27&duration=3200&pause=1200&color=FBBF24&center=true&vCenter=true&width=800&height=50&lines=Aspiring+AI+Engineer+%7C+Full-Stack+Developer;Learning+by+building+real+projects;MERN+%7C+Python+%7C+DSA+in+C%2B%2B" alt="Aspiring AI Engineer | Full-Stack Developer" />
+
+<br/>
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshit-soni-433622367/)
+[![GitHub followers](https://img.shields.io/github/followers/Akshitsoni-2007?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=14B8A6)](https://github.com/Akshitsoni-2007?tab=followers)
+![Profile views](https://komarev.com/ghpvc/?username=Akshitsoni-2007&label=Profile+views&color=06B6D4&style=for-the-badge)
+
+</div>
+
+<br/>
+
+<!-- ============================ ABOUT ============================ -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=26&duration=1000&pause=1000&color=14B8A6&center=true&vCenter=true&repeat=false&width=520&height=50&lines=About+Me" alt="About Me" />
+
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=e3b341&center=true&vCenter=true&width=900&height=44&lines=Aspiring%20AI%20Engineer%20mastering%20MERN%2C%20Python%2C%20and%20DSA%20to%20build%20impactful%20real-world%20solutions.;Learning%20by%20building%20projects%20that%20bridge%20software%20engineering%20and%20artificial%20intelligence." alt="Typing headlines" />
+I'm a second-year <b>B.Tech CSE (AI &amp; Data Science)</b> student who loves turning ideas into working software.<br/>
+My problem-solving base is <b>DSA in C++</b>. Now I'm learning <b>full-stack development (MERN)</b> and <b>Python for AI/ML</b><br/>
+by building projects instead of only watching tutorials.
 </p>
 
-### 🚀 About Me
+<table align="center">
+  <tr>
+    <td align="center" width="260">
+      <h3>🔭</h3>
+      <b>Building</b><br/>
+      <sub>Real-time web apps<br/>with the MERN stack</sub>
+    </td>
+    <td align="center" width="260">
+      <h3>🌱</h3>
+      <b>Learning</b><br/>
+      <sub>Web Development and<br/>AI / Machine Learning</sub>
+    </td>
+    <td align="center" width="260">
+      <h3>🎯</h3>
+      <b>Goal</b><br/>
+      <sub>Become an AI Engineer building<br/>impactful real-world apps</sub>
+    </td>
+  </tr>
+</table>
 
-Computer Science student passionate about AI, Machine Learning, and Full-Stack Development.  
-Currently learning Web-development with MERN stack, Python for AI, and Data Structures &amp; Algorithms.  
-I enjoy building projects, solving problems, and continuously improving my skills.  
-Goal: Become an AI Engineer and contribute to impactful real-world applications.
+<div align="center">
 
-🌱 &nbsp;I'm currently learning **Web Development || AI-Machine learning**
+<br/>
 
-### 🛠️ Tech Stack
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=800&pause=1000&color=06B6D4&center=true&vCenter=true&repeat=false&width=420&height=32&lines=My+Learning+Path" alt="My learning path" />
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
-</p>
+<br/>
+<br/>
 
-### 🔗 Connect With Me
+<table align="center">
+  <tr>
+    <td align="center"><b>DSA in C++</b><br/>Foundation</td>
+    <td align="center">➜</td>
+    <td align="center"><b>MERN Stack</b><br/>Currently Learning</td>
+    <td align="center">➜</td>
+    <td align="center"><b>AI / ML</b><br/>Upcoming Goal</td>
+  </tr>
+</table>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/akshit-soni-433622367/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
+</div>
 
-### 📊 GitHub Stats
+<br/>
+
+<!-- ============================ PROJECTS ============================ -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=26&duration=1000&pause=1000&color=14B8A6&center=true&vCenter=true&repeat=false&width=520&height=50&lines=Projects" alt="Projects" />
+
+</div>
+
+| Project | Description | Repository |
+|:---|:---|:---:|
+| **VIBE – Real-Time Chatting** | A full-stack real-time chat application with instant messaging and online user status using Socket.IO. | [View Repo](https://github.com/Akshitsoni-2007/VIBE-RealTIme_Chatting) |
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Akshitsoni-2007&show_icons=true&theme=tokyonight&title_color=4f46e5&icon_color=4f46e5&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Akshitsoni-2007&layout=compact&theme=tokyonight&title_color=4f46e5&icon_color=4f46e5&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <sub>🚀 More projects coming soon!</sub>
 </p>
 
-### 📈 Contribution Graph
+<br/>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Akshitsoni-2007&bg_color=00000000&color=4f46e5&line=4f46e5&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+<!-- ============================ TECH STACK ============================ -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=26&duration=1000&pause=1000&color=14B8A6&center=true&vCenter=true&repeat=false&width=520&height=50&lines=Tech+Stack" alt="Tech Stack" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=800&pause=1000&color=06B6D4&center=true&vCenter=true&repeat=false&width=420&height=32&lines=Core+tools" alt="Core tools" />
+
+<img src="https://skillicons.dev/icons?i=cpp,py,js,react,nodejs,express,mongodb,git,github&perline=9" alt="C++, Python, JavaScript, React, Node.js, Express, MongoDB, Git, GitHub" />
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=800&pause=1000&color=06B6D4&center=true&vCenter=true&repeat=false&width=420&height=32&lines=Libraries+and+real-time" alt="Libraries and real-time" />
+
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+
+</div>
+
+<br/>
+
+<!-- ============================ STATS ============================ -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=26&duration=1000&pause=1000&color=14B8A6&center=true&vCenter=true&repeat=false&width=520&height=50&lines=GitHub+Stats" alt="GitHub Stats" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=800&pause=1000&color=06B6D4&center=true&vCenter=true&repeat=false&width=420&height=32&lines=Overview+and+streak" alt="Overview and streak" />
+
+<img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Akshitsoni-2007&show_icons=true&theme=tokyonight&title_color=14b8a6&icon_color=fbbf24&hide_border=true&bg_color=00000000&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Akshitsoni-2007&layout=compact&theme=tokyonight&title_color=14b8a6&icon_color=fbbf24&hide_border=true&bg_color=00000000&langs_count=6" alt="Top languages" />
+
+<br/>
+
+</div>
+
+<br/>
+
+<!-- ============================ CONTACT ============================ -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=26&duration=1000&pause=1000&color=14B8A6&center=true&vCenter=true&repeat=false&width=520&height=50&lines=Let%27s+Connect" alt="Let's Connect" />
+
+<p>
+Open to <b>internships</b>, <b>collaborations</b>, and conversations about web development and AI.
 </p>
 
-### 💭 Dev Quote
+<a href="https://www.linkedin.com/in/akshit-soni-433622367/">
+  <img src="https://img.shields.io/badge/LinkedIn-Message%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/Akshitsoni-2007">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
+<br/><br/>
 
----
-<p align="center"><i>⭐️ From <a href="https://github.com/Akshitsoni-2007">Akshitsoni-2007</a></i></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:14B8A6&height=100&section=footer" alt="" width="100%" />
+
+</div>
